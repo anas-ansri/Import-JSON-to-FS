@@ -15,7 +15,7 @@ Installation
 
 To install the dependencies, run the following command:
 
-`npm install`
+  `npm install`
 
 Usage
 -----
@@ -28,7 +28,7 @@ Usage
 
 4.  Run the following command to import the JSON file:
 
-`node index.js`
+  `node index.js`
 
 Tips
 ----
