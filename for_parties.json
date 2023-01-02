@@ -1,0 +1,18 @@
+[
+    {
+        "id": "E001",
+        "name": "B Normal Party",
+        "address": "This is address",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "pinCode": "411009",
+        "gst": "",
+        "landline": "",
+        "agentCompanyName": " ",
+        "partyType": "Below Normal",
+        "paymentType": "Cheque",
+        "goodsReturnLevel": "High",
+        "priceChange": "200",
+        "contactPersons": "[{'name': 'Anas','email': 'anas@gmail.com','phone': '9398213286','designation': 'lakfnsl','photo': ''}"    
+    }
+]

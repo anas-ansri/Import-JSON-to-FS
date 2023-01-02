@@ -1,0 +1,56 @@
+[
+    {
+        "id": "101",
+        "image": "https://firebasestorage.googleapis.com/v0/b/business-order-64b6f.appspot.com/o/Items%2Fscaled_india-saree-22619418.jpg.jpg?alt=media&token=ad0edd81-02ed-4f46-90c1-39b7ce686d13",
+        "qualityNumber": "",
+        "price": 1000,
+        "name": "",
+        "fabricDescription": "This is fabric description",
+        "additionalDescription": "Item 1, Item 4, Item 8, Item 7, Item 3, Item 6",
+        "itemType": {
+            "id": "I0009029652784661",
+            "itemName": "Sarees",
+            "hsn": "98700",
+            "description": "Printed Handloom",
+            "unit": "PCS",
+            "percentage": ""
+        },
+        "status": "approved"
+    },
+    {
+        "id": "102",
+        "image": "https://firebasestorage.googleapis.com/v0/b/business-order-64b6f.appspot.com/o/Items%2Fscaled_india-saree-22619418.jpg.jpg?alt=media&token=582ae4b5-40ae-429e-b932-8601ed9f6f0a",
+        "qualityNumber": "",
+        "price": 100,
+        "name": "",
+        "fabricDescription": "This is fabric descrption",
+        "additionalDescription": "",
+        "itemType": {
+            "id": "I0009029652784661",
+            "itemName": "Sarees",
+            "hsn": "98700",
+            "description": "Printed Handloom",
+            "unit": "PCS",
+            "percentage": ""
+        },
+        "status": "approved"
+    },
+    {
+        "id": "100",
+        "image": "https://firebasestorage.googleapis.com/v0/b/business-order-64b6f.appspot.com/o/Items%2Fscaled_india-saree-22619418.jpg.jpg?alt=media&token=fd369459-5077-4c04-a77c-42ec0dfc56b0",
+        "qualityNumber": "",
+        "price": 1000,
+        "name": "",
+        "fabricDescription": "dlskJDBA",
+        "additionalDescription": "sadsds",
+        "itemType": {
+            "id": "I0009029652784661",
+            "itemName": "Sarees",
+            "hsn": "98700",
+            "description": "Printed Handloom",
+            "unit": "PCS",
+            "percentage": ""
+        },
+        "status": "approved"
+    }
+]

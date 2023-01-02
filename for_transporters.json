@@ -1,0 +1,32 @@
+[
+    {
+        "companyName": "Amazon Seller Pvt. Lmtd.",
+        "address": "Adress",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "pinCode": "411009",
+        "gst": null,
+        "enrollmentNumber": null,
+        "contactPersons": "[{name': 'Anas '','email': 'anas@gmail.com','phone': '0987654321','designation': 'akjbasd','photo': '}]"
+    },
+    {
+        "companyName": "Amazon Seller Pvt. Lmtd.",
+        "address": "Adress",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "pinCode": "411009",
+        "gst": null,
+        "enrollmentNumber": null,
+        "contactPersons": "[{name': 'Anas '','email': 'anas@gmail.com','phone': '0987654321','designation': 'akjbasd','photo': '}]"
+    },
+    {
+        "companyName": "Amazon Seller Pvt. Lmtd.",
+        "address": "Adress",
+        "city": "Pune",
+        "state": "Maharashtra",
+        "pinCode": "411009",
+        "gst": null,
+        "enrollmentNumber": null,
+        "contactPersons": "[{name': 'Anas '','email': 'anas@gmail.com','phone': '0987654321','designation': 'akjbasd','photo': '}]"
+    }
+]
