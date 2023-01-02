@@ -15,8 +15,6 @@ Installation
 
 To install the dependencies, run the following command:
 
-Copy code
-
 `npm install`
 
 Usage
@@ -29,8 +27,6 @@ Usage
 3.  In `index.js`, specify the name of your JSON file and the collection you want to import it to. If you want to import the JSON to a specific document within a collection, you can also specify the document ID.
 
 4.  Run the following command to import the JSON file:
-
-Copy code
 
 `node index.js`
 
