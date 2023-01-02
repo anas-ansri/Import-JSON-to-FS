@@ -26,7 +26,7 @@ const createMenuItem = async (id, record) => {
 };
 
 // Path: samples/sample.json
-let database = require('./sample.json');
+let database = require('./samples/sample.json');
 
 for (let index = 0; index < database.length; index++) {
     let element = database[index];
